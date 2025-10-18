@@ -1,0 +1,5 @@
+{
+  "name": "Look Lence - Virtual Try-On",
+  "description": "Upload a photo of yourself and an outfit to see a realistic AI-generated image of you wearing it. Features a before/after comparison slider.",
+  "requestFramePermissions": []
+}
